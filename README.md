@@ -4,8 +4,9 @@
 
 ### LAUNDRY MANAGER (+1.000.000 Download)
 
-:heavy_check_mark:  s _ _ADS_ _  asd
-:heavy_check_mark:  
+:heavy_check_mark: ADS
+
+:heavy_check_mark: IAP
 
 https://github.com/batuhantatli/Prototype-Videos-2/assets/65722870/f10bfe5a-bfd0-4ab0-9264-d1ba798bf2bd
 
