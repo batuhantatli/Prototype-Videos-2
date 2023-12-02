@@ -26,7 +26,7 @@ https://github.com/batuhantatli/Prototype-Videos-2/assets/65722870/359e1f97-3550
 
 ## __OTGER TEST GAMES__
 
-  ### HOLES CONTROL
+  ### *HOLES CONTROL
 
 https://github.com/batuhantatli/Prototype-Videos-2/assets/65722870/4a80b389-4261-4a37-bb8c-8d6181749c54
 
