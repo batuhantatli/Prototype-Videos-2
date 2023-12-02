@@ -1,8 +1,6 @@
-<h1>Game Prototype's for OXO GAMES Company.</h1>
+<h1>Game Prototype's for OXO GAMES Company (July 2022 - Current)</h1>
 
-
-
-#__GLOBAL LAUNCH GAME__
+# __GLOBAL LAUNCH GAME__
 
   * LAUNDRY MANAGER (+1.000.000 Download)
 
@@ -15,7 +13,7 @@ https://github.com/batuhantatli/Prototype-Videos-2/assets/65722870/f10bfe5a-bfd0
 
 
 
-#__SOFT LAUNCH GAME__
+# __SOFT LAUNCH GAME__
 
   * BALLS ASMR! (+100.000 Download)
 
