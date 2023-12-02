@@ -29,7 +29,7 @@ https://github.com/batuhantatli/Prototype-Videos-2/assets/65722870/359e1f97-3550
 
 ---
 
-## __OTGER PROTOTYPE GAMES__
+## __OTHER PROTOTYPE GAMES__
 
 ### HOLES CONTROL
 
