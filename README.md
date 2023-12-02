@@ -9,6 +9,8 @@ https://github.com/batuhantatli/Prototype-Videos-2/assets/65722870/f10bfe5a-bfd0
   -IOS: https://apps.apple.com/us/app/laundry-manager/id1645275647 
 
 
+
+
 SOFT LAUNCH GAME 
 
   * BALLS ASMR! (+100.000 Download)
