@@ -2,7 +2,7 @@
 
 
 
-__GLOBAL LAUNCH GAME__
+#__GLOBAL LAUNCH GAME__
 
   * LAUNDRY MANAGER (+1.000.000 Download)
 
@@ -15,7 +15,7 @@ https://github.com/batuhantatli/Prototype-Videos-2/assets/65722870/f10bfe5a-bfd0
 
 
 
-__SOFT LAUNCH GAME__
+#__SOFT LAUNCH GAME__
 
   * BALLS ASMR! (+100.000 Download)
 
@@ -26,7 +26,7 @@ https://github.com/batuhantatli/Prototype-Videos-2/assets/65722870/359e1f97-3550
   -IOS: https://apps.apple.com/us/app/balls-asmr/id6444698851
 
 
-  OTGER TEST GAMES
+# __OTGER TEST GAMES__
 
   * HOLES CONTROL
 
