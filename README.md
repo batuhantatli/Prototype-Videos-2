@@ -2,7 +2,7 @@
 
 ## __GLOBAL LAUNCH GAME__
 
-### LAUNDRY MANAGER (+1.000.000 Download)
+### LAUNDRY MANAGER (+1.000.000 Download) with Supersonic Studios
 
 :heavy_check_mark: ADS
 :heavy_check_mark: IAP
@@ -19,7 +19,7 @@ https://github.com/batuhantatli/Prototype-Videos-2/assets/65722870/f10bfe5a-bfd0
 
 ## __SOFT LAUNCH GAME__
 
-### BALLS ASMR! (+100.000 Download)
+### BALLS ASMR! (+100.000 Download) with Rollic
 
 https://github.com/batuhantatli/Prototype-Videos-2/assets/65722870/359e1f97-3550-489e-b7a1-468c34321342
 
