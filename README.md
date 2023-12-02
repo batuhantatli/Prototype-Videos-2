@@ -53,7 +53,7 @@ https://github.com/batuhantatli/Prototype-Videos-2/assets/65722870/ab90edac-936c
 
 https://github.com/batuhantatli/Prototype-Videos-2/assets/65722870/350ff754-60c0-42b6-860d-5702d328322a
 
-### OPEN UP
+### COLORFULL KILLER
 
 https://github.com/batuhantatli/Prototype-Videos-2/assets/65722870/59d410c9-2cf2-415d-b791-6da51246908f
 
