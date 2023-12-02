@@ -20,3 +20,13 @@ https://github.com/batuhantatli/Prototype-Videos-2/assets/65722870/359e1f97-3550
   -ANDRIOD: https://play.google.com/store/apps/details?id=com.oxogames.turnaroundd&hl=tr&gl=US
   
   -IOS: https://apps.apple.com/us/app/balls-asmr/id6444698851
+
+
+  OTGER TEST GAMES
+
+  * HOLES CONTROL
+
+https://github.com/batuhantatli/Prototype-Videos-2/assets/65722870/4a80b389-4261-4a37-bb8c-8d6181749c54
+
+-ANDRIOD: https://play.google.com/store/apps/details?id=com.oxogames.holescontrol&hl=en_US
+
