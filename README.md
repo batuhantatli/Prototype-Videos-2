@@ -10,8 +10,7 @@ https://github.com/batuhantatli/Prototype-Videos-2/assets/65722870/f10bfe5a-bfd0
   
 - IOS: https://apps.apple.com/us/app/laundry-manager/id1645275647 
 
-
-
+---
 
 ## __SOFT LAUNCH GAME__
 
@@ -23,6 +22,7 @@ https://github.com/batuhantatli/Prototype-Videos-2/assets/65722870/359e1f97-3550
   
 - IOS: https://apps.apple.com/us/app/balls-asmr/id6444698851
 
+---
 
 ## __OTGER TEST GAMES__
 
