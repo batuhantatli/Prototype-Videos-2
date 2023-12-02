@@ -2,7 +2,7 @@
 
 
 
-GLOBAL LAUNCH GAME 
+__GLOBAL LAUNCH GAME__
 
   * LAUNDRY MANAGER (+1.000.000 Download)
 
@@ -15,7 +15,7 @@ https://github.com/batuhantatli/Prototype-Videos-2/assets/65722870/f10bfe5a-bfd0
 
 
 
-SOFT LAUNCH GAME 
+__SOFT LAUNCH GAME__
 
   * BALLS ASMR! (+100.000 Download)
 
