@@ -38,6 +38,15 @@ https://github.com/batuhantatli/Prototype-Videos-2/assets/65722870/4a80b389-4261
 https://github.com/user-attachments/assets/8acc3cce-e149-4f32-8833-573aa3c356e9
 
 
+https://github.com/user-attachments/assets/90f481c9-64b6-4a65-9681-88b4709f0849
+
+
+https://github.com/user-attachments/assets/25d484de-70c7-4ebd-bf41-f2ac9aed0a75
+
+
+https://github.com/user-attachments/assets/dec57559-da2c-4d93-ba1b-250698162ba2
+
+
 https://github.com/batuhantatli/Prototype-Videos-2/assets/65722870/c8d58bda-83b0-4292-b842-30ccd9db3acd
 
 
